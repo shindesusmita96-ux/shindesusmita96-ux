@@ -38,7 +38,4 @@ SQL-based funnel analysis of customer behaviour, conversion rates and the purcha
 🌐 Web Design
 
 
-## 📊 GitHub Activity
-
-
 
