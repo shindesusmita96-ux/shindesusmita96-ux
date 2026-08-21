@@ -7,10 +7,10 @@
 <img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFyd3Azb3ViZ2ZpbTFwNmR0cnNmam02cXFpNDdzZW56eGhiMjVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r9SDDkDZq14nrD7dit/giphy.gif' width='200"'>
 
 ## About Me
-- 📈 Interested in Data Analytics & Business Intelligence
-- 🌱 Always learning something new
-- 🛠️ Currently growing my technical toolkit
-- 🌐 Hoping to explore web design in the future
+-  Interested in Data Analytics & Business Intelligence
+-  Always learning something new
+-  Currently growing my technical toolkit
+-  Hoping to explore web design in the future
 
 
 ## My ToolBox
